@@ -1,0 +1,17 @@
+PUTRI WILLA ANDINI
+21090111
+2C
+Jawaban No 1
+
+
+Greedy Algorithm adalah merupakan metode yang paling populer untuk memecahkan persoalan optimasi.
+Greedy sendiri diambil dari bahasa inggris yang artinya rakus, tamak atau serakah.
+Prinsip algoritma greedy adalah: “take what you can get now!”. Maksud dari prinsip tersebut adalah pada setiap
+langkah dalam algoritma greedy, kita mengambil keputusan yang paling optimal untuk langkah tersebut tanpa
+memperhatikan kosekuensi pada langkah selanjutnya
+
+Contoh masalah sehari-hari yang menggunakan prinsip greedy:
+1. Memilih beberapa jenis investasi (penanaman modal).
+2. Mencari jalur tersingkat dari Bandung ke Surabaya.
+3. Memilih jurusan di Perguruan Tinggi.
+4. Bermain kartu remi.
